@@ -1,7 +1,7 @@
-# 🌱 e-plantShopping
+# 🌱 Paradise Nursery
 
 ## 📖 Project Overview
-The **e-plantShopping** project is a React-based web application that simulates an online plant nursery shopping experience. It allows users to browse plants, add them to a cart, and manage their shopping journey with intuitive navigation and interactive features.
+The **Paradise Nursery** project is a React-based web application that simulates an online plant nursery shopping experience. It allows users to browse plants, add them to a cart, and manage their shopping journey with intuitive navigation and interactive features.
 
 ---
 
